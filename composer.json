@@ -1,7 +1,7 @@
 {
-    "name": "tahoelimited/XeroOAuth-PHP",
+    "name": "tahoelimited/xerooauth-php",
     "description": "A fork of the Xero OAuth API for use with Symfony 2.",
-    "homepage": "https://github.com/tahoelimited/XeroOAuth-PHP",
+    "homepage": "https://github.com/tahoelimited/xerooauth-php",
     "canonical": "https://github.com/XeroAPI/XeroOAuth-PHP",
     "keywords": ["xero", "symfony"],
     "license": "MIT",
